@@ -1,9 +1,8 @@
-streamlit
 yfinance
-numpy
 pandas
+numpy
 matplotlib
+streamlit
 tensorflow==2.12.0
 scikit-learn
 nltk
-requests
